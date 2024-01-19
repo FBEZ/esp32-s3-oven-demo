@@ -1,0 +1,6 @@
+description: BSP Display rotation example
+dependencies:
+  espressif/led_strip: "^2.5.2"
+  esp32_s3_lcd_ev_board:
+    version: "*"
+
